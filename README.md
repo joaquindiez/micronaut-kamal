@@ -1,4 +1,4 @@
-##Como despleglar tu aplicación Micronaut usando Kamal, con certificado SSL en cualquier VPS
+## Como despleglar tu aplicación Micronaut usando Kamal, con certificado SSL en cualquier VPS
 
 Este codigo es el apoyo para esta entrada de Blog de Joaquin Diez
 
